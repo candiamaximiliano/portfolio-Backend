@@ -1,0 +1,26 @@
+Historias de usuarios para el portfolio:
+
+# Como usuario espero...
+  {
+    registrarme,
+    iniciar sesión,
+    desloguearme,
+    guardar mi contraseña de forma segura,
+    cambiar mi contraseña de forma segura,
+    agregar una foto de perfil y poder cambiarla/quitarla,
+    agregar una foto de portada y poder cambiarla/quitarla,
+    editar mi nombre y encabezado,
+    agregar información acerca de mí y poder cambiarla,
+    agregar/editar/eliminar aptitudes, hard-skills y soft-skills,
+    agregar/editar/eliminar experiencia profesional,
+    agregar/editar/eliminar educación formal,
+    agregar/editar/eliminar educación complementaria,
+    agregar/editar/eliminar experiencia en voluntariado,
+    agregar/editar/eliminar proyectos personales,
+    agregar/editar/eliminar idiomas,
+    tener una sección de videos relacionados a cada proyecto,
+    tener un formulario de contacto,
+    tener un footer con links directos a las redes sociales,
+    contar con botón de acceso directo a WhatsApp,
+    subir mi CV en varios idiomas y poder descargarlos con un clic,
+    utilizar la app en multiples pantallas y dispositivos (Responsive Web Design)

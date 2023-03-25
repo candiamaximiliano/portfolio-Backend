@@ -1,0 +1,57 @@
+.
+├── README.md
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+└── src
+    ├── main
+    │   ├── java
+    │   │   └── com
+    │   │       └── example
+    │   │           └── portfolio
+    │   │               ├── PortfolioApplication.java
+    │   │               ├── controller
+    │   │               │   ├── AuthenticationController.java
+    │   │               │   ├── ProjectController.java
+    │   │               │   └── UserController.java
+    │   │               ├── dto
+    │   │               │   ├── AuthenticationRequest.java
+    │   │               │   ├── AuthenticationResponse.java
+    │   │               │   ├── ProjectDto.java
+    │   │               │   ├── SignUpRequest.java
+    │   │               │   └── UserDto.java
+    │   │               ├── model
+    │   │               │   ├── ERole.java
+    │   │               │   ├── Project.java
+    │   │               │   ├── Role.java
+    │   │               │   └── User.java
+    │   │               ├── repository
+    │   │               │   ├── ProjectRepository.java
+    │   │               │   ├── RoleRepository.java
+    │   │               │   └── UserRepository.java
+    │   │               ├── security
+    │   │               │   ├── JwtAuthEntryPoint.java
+    │   │               │   ├── JwtAuthTokenFilter.java
+    │   │               │   ├── JwtProvider.java
+    │   │               │   └── UserDetailsImpl.java
+    │   │               └── service
+    │   │                   ├── AuthenticationService.java
+    │   │                   ├── ProjectService.java
+    │   │                   └── UserService.java
+    │   └── resources
+    │       ├── application-dev.properties
+    │       ├── application-prod.properties
+    │       ├── application.properties
+    │       ├── static
+    │       └── templates
+    └── test
+        └── java
+            └── com
+                └── example
+                    └── portfolio
+                        ├── PortfolioApplicationTests.java
+                        └── controller
+                            ├── AuthenticationControllerTest.java
+                            ├── ProjectControllerTest.java
+                            └── UserControllerTest.java
+
